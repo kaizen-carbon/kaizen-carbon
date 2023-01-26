@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on development and open source contribution.
 - 🌱 I’m currently learning open source and Kubernetes.
 - 👯 I’m looking to collaborate on development and open source projects.
