@@ -27,6 +27,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=kaizenTakashi&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=kaizen-carbon&icon=9&color=0)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=kaizen-carbon&icon=9&color=0)](https://visitcount.itsvg.in) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
